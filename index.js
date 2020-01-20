@@ -11,4 +11,5 @@ fs.readdir('./events/', (err, files) => {
     })
 })
 
-client.login(process.env.BOT_TOKEN)
+//client.login(process.env.BOT_TOKEN)
+client.login("NjY4MTczNjkxNTE5MjM4MTU0.XiWqSA.0hyj204r0WYDXgYr-muOvxSdXRQ")
